@@ -1,0 +1,12 @@
+header{
+    height:80px;
+    display:flex;
+}
+
+.header-left li{
+    float:left;
+}
+
+li{
+    list-style:none;
+}
