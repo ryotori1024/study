@@ -1,10 +1,23 @@
 header{
     height:80px;
     display:flex;
+    background-color:green;
 }
 
-.header-left li{
-    float:left;
+.header-left{
+    background-color:red;
+}
+
+.header-right{
+    background-color:blue;
+}
+
+.header-left-ul{
+    display:flex;
+}
+
+.header-right-ul{
+    display:flex;
 }
 
 li{
