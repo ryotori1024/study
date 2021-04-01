@@ -23,3 +23,16 @@ header{
 li{
     list-style:none;
 }
+
+.main{
+    background-color:purple;
+    height:1000px;
+}
+
+.main-contents{
+    display:flex;
+}
+
+.contents-ul-contents{
+    display:flex;
+}
