@@ -29,10 +29,30 @@ li{
     height:1000px;
 }
 
-.main-contents{
+.preferred-date{
     display:flex;
 }
 
+.preferred-date{
+    background-color:red;
+}
+
 .contents-ul-contents{
+    display:flex;
+}
+
+.textarea{
+    height:30px;
+}
+
+.client-name{
+    display:flex;
+}
+
+.client-furigana{
+    display:flex;
+}
+
+.client-address{
     display:flex;
 }
